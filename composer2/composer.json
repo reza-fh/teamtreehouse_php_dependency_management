@@ -1,0 +1,15 @@
+{
+    "name": "fa/php_mailer",
+    "description": "tes phpmailer to server gmail",
+    "type": "project",
+    "authors": [
+        {
+            "name": "reza-fh",
+            "email": "revolusi0909@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "league/oauth2-google": "^3.0"
+    }
+}

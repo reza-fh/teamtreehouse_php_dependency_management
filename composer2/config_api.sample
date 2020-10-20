@@ -1,0 +1,10 @@
+
+//Fill in authentication details here
+//Either the gmail account owner, or the user that gave consent
+$email = 'user@gmail.com';
+$clientId = 'RANDOMCHAR';
+$clientSecret = '1hopnY401b2UmYxtXUjg8T5g';
+
+//Obtained by configuring and running get_oauth_token.php
+//after setting up an app in Google Developer Console.
+$refreshToken = '1//0gUvWIrhSQj89CgYIARAAGBASNwF-L9Ir0GeO3ap2tLmn9DzkEVe-BEDYT9INHOaydEW_tgX2JdpzZhowFVEet1ejoDiAF8mr5mM';
